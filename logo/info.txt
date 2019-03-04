@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+
+font name: berkshireswash-regular
+font link: https://fonts.google.com/specimen/Berkshire+Swash
+font author: Astigmatic
+font author site: http://www.astigmatic.com/
+
+icon designer: Isabel Foo
+icon designer link: /isabelfoo
+        
+{"bg":"#ffffff","icon-gradient-0":"#C06D69","icon-gradient-1":"#D2B05C","font":"#000000"}
+      

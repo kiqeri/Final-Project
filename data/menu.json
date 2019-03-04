@@ -1,0 +1,64 @@
+{
+    "results": [
+        {
+            "name": "Pink Cupcake",
+            "price": "21000",
+            "img": "be mine web-280x170.png"
+        },
+        {
+            "name": "Caramel Machiatto",
+            "price": "25000",
+            "img": "Caramel Machiatto-280x170.png"
+        },
+        {
+            "name": "Cloud 9",
+            "price": "26000",
+            "img": "Cloud 9-280x170.png"
+        },
+        {
+            "name": "Cookie Chunk",
+            "price": "28000",
+            "img": "Cookie Chunk-280x170.png"
+        },
+        {
+            "name": "Matcha",
+            "price": "30000",
+            "img": "cupcake 3 edit-280x170.png"
+        },
+        {
+            "name": "Choco",
+            "price": "30000",
+            "img": "Heavenly Chocolate-280x170.png"
+        },
+        {
+            "name": "Diabetic",
+            "price": "55000",
+            "img": "Keeper-280x170.png"
+        },
+        {
+            "name": "Waffle",
+            "price": "28000",
+            "img": "maple waffle cupcake web-280x170.png"
+        },
+        {
+            "name": "Popcorn",
+            "price": "15000",
+            "img": "Poppin-280x170.png"
+        },
+        {
+            "name": "Red Velvet",
+            "price": "55000",
+            "img": "Red Velvet-280x170.png"
+        },
+        {
+            "name": "Another Pink Cupcake",
+            "price": "45000",
+            "img": "sto-berry cute web-280x170.png"
+        },
+        {
+            "name": "Diabetic 2.0",
+            "price": "75000",
+            "img": "Volcano-280x170.png"
+        }
+    ]
+}

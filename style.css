@@ -1,0 +1,38 @@
+html,body {
+    height: 100%;
+    /* margin: 0px; */
+}
+#slider1{
+    height: 100%;
+    margin-top: -59px;
+}
+.carousel-inner {
+    height: 100% !important;
+}
+.nav-item > a{
+    font-size: 18px
+}
+a {
+    color: black;
+}
+a:hover {
+    color:white;
+}
+.blog-post-title {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2rem;
+}
+.icon {
+    height: 18px;
+}
+#gmail_icon{
+    width:18px;
+}
+#github_icon{
+    width:15px;
+}
+#footer {
+    padding: 20px;
+    text-align: center;
+    position: relative;
+}
